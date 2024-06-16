@@ -1,0 +1,2 @@
+# Heart-Attack-Risk-Prediction-Using-Different-Machine-Learning-Models-
+In this project, I conducted EDA and used Decision Trees, Random Forest, SVM, and Neural Networks to predict heart attack risks, achieving notable accuracy. This showcases my skills in EDA, algorithm implementation, model comparison, and evaluation, highlighting data science's potential in healthcare for early risk assessment.
